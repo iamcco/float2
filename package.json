@@ -1,0 +1,28 @@
+{
+  "name": "float2",
+  "version": "0.1.0",
+  "description": "move the dot of float",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js | faucet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamcco/float2.git"
+  },
+  "keywords": [
+    "float",
+    "dot",
+    "pad"
+  ],
+  "author": "年糕小豆汤",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamcco/float2/issues"
+  },
+  "homepage": "https://github.com/iamcco/float2#readme",
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "tape": "^4.5.1"
+  }
+}
