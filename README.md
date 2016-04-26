@@ -4,6 +4,8 @@ move the dot of float
 
 #### Usage
 
+install float2 `npm install float2`
+
 ```
 var float2 = require('float2');
 
